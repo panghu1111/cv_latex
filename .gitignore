@@ -1,0 +1,15 @@
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.pdf
+__pycache__/
+*.pyc
+.vscode/
+.idea/
